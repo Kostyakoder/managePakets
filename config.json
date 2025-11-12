@@ -1,0 +1,8 @@
+{
+    "package_name": "Newtonsoft.Json",
+    "repository_url": "https://api.nuget.org/v3/index.json",
+    "test_repository_mode": false,
+    "package_version": "13.0.1",
+    "output_filename": "dependency_graph.png",
+    "package_filter": ""
+}
